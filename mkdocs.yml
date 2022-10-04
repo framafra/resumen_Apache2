@@ -1,0 +1,6 @@
+site_name: Resumen Apache2
+
+
+nav:
+    - Home: index.md
+    - Directorios/Archivos de Trabajo: dir.md
