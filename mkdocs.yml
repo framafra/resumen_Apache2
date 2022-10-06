@@ -1,6 +1,13 @@
 site_name: Resumen Apache2
-
+docs_dir: 'md'
+site_dir: 'docs'
 
 nav:
     - Home: index.md
     - Directorios/Archivos de Trabajo: dir.md
+    - Google: https://google.com
+
+
+theme:
+    name: mkdocs
+    include_sidebar: false
