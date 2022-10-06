@@ -14,10 +14,11 @@ Habilitar el sitio ¡¡IMPORTANTÍSIMO!!:
 Después hay que reiniciar Apache para que funcione tal y como se explica en el apartado [servicio apache2](servicio.md)
 
 ### Añadir Alias:
-	
+
+```	
 	<VirtualHost *:80>
 		...
 		ServerAlias www.dominio.es web.dominio.es
 		...
 	</VirtualHost>
-
+```

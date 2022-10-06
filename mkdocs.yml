@@ -1,4 +1,5 @@
 site_name: Resumen Apache2
+site_url: https://framafra.github.io/resumen_Apache2/
 docs_dir: 'md'
 site_dir: 'docs'
 repo_url: https://github.com/framafra/resumen_Apache2 #para mostrar un link al repositorio
@@ -32,9 +33,14 @@ theme:
         #- header.autohide
         - toc.follow
         - toc.integrate
+        - search.suggest
+
 
 extra:
     generator: false #Muestra en el pie de página que se ha realizado con Mkdocs
     social:
     - icon: fontawesome/solid/paper-plane
       link: mailto:<email-address>
+    
+
+

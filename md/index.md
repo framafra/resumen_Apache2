@@ -1,6 +1,4 @@
 # Resumen de Comandos Apache2
-
-![](images/LogoApache.png)
 ## Contenidos
 
 - [Instalación](inst.md)
@@ -13,4 +11,7 @@
 - [Permitir listar el contenido de un directorio](listar.md)
 - [Mecanismos de autentificación](mecanismos.md)
 
+<br>
+<br>
 
+![](images/LogoApache.png)

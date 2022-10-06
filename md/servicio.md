@@ -1,4 +1,3 @@
-## Servicio Apache2:
 **Con los comandos de servicio de Linux:**<br>
 
 - Arranque:<br>
