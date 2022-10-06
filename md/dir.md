@@ -1,4 +1,4 @@
-## DIRECTORIOS/ARCHIVOS DE TRABAJO APACHE
+
 
     /etc/apache2/apache2.conf --> Archivo de configuración general de Apache.
 

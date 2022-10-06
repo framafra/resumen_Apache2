@@ -1,17 +1,16 @@
 # Resumen de Comandos Apache2
 
+![](images/LogoApache.png)
+## Contenidos
 
-
-Instalación servidor Apache2
-
-    apt install apache2 -y
-
-Para habilitar acceso a través del firewall:
-    sudo ufw allow Apache
-
-
-
-Please see the [qui soc](paco.md) for further details.
-
+- [Instalación](inst.md)
+- [Directorios/Archivos de Trabajo](dir.md)
+- [Servicio Apache2](servicio.md)
+- [Directivas más importantes](directivas.md)
+- [Configuración mínima de un sitio](conf.md)
+- [Restringir acceso a una web por IP](restr.md)
+- [Añadir o modificar puertos de escucha](puertos.md)
+- [Permitir listar el contenido de un directorio](listar.md)
+- [Mecanismos de autentificación](mecanismos.md)
 
 
