@@ -1,2 +1,3 @@
-# resumen_Apache2
-Resumen de los comandos más importantes de Apache
+## Resumen de configuración de Apache2
+
+https://framafra.github.io/resumen_Apache2/
